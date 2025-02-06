@@ -1,0 +1,64 @@
+# macOS system files
+.DS_Store
+*.swp
+*.lock
+
+# Xcode workspace & settings
+xcuserdata/
+*.xcscmblueprint
+*.xcworkspace/
+
+# Build & Derived Data
+DerivedData/
+build/
+*.o
+*.d
+*.tbd
+*.ll
+*.lo
+*.la
+*.a
+*.pcm
+*.dSYM/
+*.swiftsourceinfo
+*.swiftmodule
+*.swiftinterface
+*.hmap
+*.bcsymbolmap
+
+# Logs & User-Specific Data
+*.xcuserstate
+*.xcuserdatad/
+*.mode1v3
+*.mode2v3
+
+# Swift Package Manager
+Package.resolved
+.build/
+.swiftpm/
+
+# CocoaPods (if used)
+Pods/
+*.xcworkspace/
+
+# Carthage (if used)
+Carthage/Checkouts
+Carthage/Build/
+
+# Fastlane (if used)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.ipa
+*.xcarchive
+
+# Env files
+.env
+.env.*
+
+# Ignore Xcode project settings (optional, but needed for cleaner diffs)
+*.pbxproj.LOCK
+project.xcworkspace/
