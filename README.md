@@ -3,7 +3,7 @@
 # 🤓 JSONFace
 This custom watchOS app mimics a developer-style watch face, displaying the real-time time, date, battery level, heart rate, and step count in a code-editor-inspired design.
 
-I built this in Xcode using Swift and WatchKit.
+I developed it in Xcode with Swift and WatchKit.
 
 ..
 
